@@ -76,7 +76,7 @@ console.log(car1.make); // Output: Toyota
 console.log(car1.model); // Output: Corolla
 console.log(car1.year);  // Output: 2020
 ```
-### Method
+#### Method
 ```typescript
 class Car {
     make: string;
@@ -101,3 +101,10 @@ const car1 = new Car("Toyota", "Corolla", 2020);
 // Calling a method on the object
 car1.drive(); // Output: Driving a 2020 Toyota Corolla
 ```
+### Table of Contents
+* [Comparison](#comparison)
+* [Detailed Examples](#detailed-examples)
+   * [Class](#class)
+   * [Object](#object)
+   * [Property](#property)
+   * [Method](#method)
