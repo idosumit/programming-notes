@@ -195,5 +195,5 @@ function printCoord(pt: Point): void {
 // Example usage
 printCoord({ x: 3, y: 7 }); // Output: The coordinate's x value is 3
                            //         The coordinate's y value is 7
-</details>
 ```
+</details>
