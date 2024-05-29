@@ -17,3 +17,4 @@
    * Note to self: Notes are all documented within the `/starter` folders within each section, mostly within `.js` files.
 2. [Spread Operator and Rest Pattern in JS](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Spread%20Operator%20%26%20Rest%20Patters%20in%20JS.md)
 3. [Truthy and Falsy Values in JS](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Truthy%20and%20Falsy%20Values%20in%20JS.md)
+4. [Short Circuiting in JS](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Short%20Circuiting%20in%20JS.md)
