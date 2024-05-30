@@ -4,7 +4,7 @@
 1. Short circuiting is an even better way to initialize values than ternary operator or if/else statements. HOWEVER, if our initial number is 0, short circuiting won't work.
 
 2. **IMPORTANT**: The OR (`||`) operator will return the first truthy value of all the operands, or simply the last value if all of them are falsy. On the other hand, the AND (`&&`) operator will return the first falsy value or the last value if all of them are truthy. And as for practical applications, we can use the OR operator to set default values, and we can use the AND operator to execute code in the second operand if the first one is true.
-
+   > [Truthy and Falsy Values Notes](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Truthy%20and%20Falsy%20Values%20in%20JS.md)
 #
 
 ## The OR Operator (`||`)
