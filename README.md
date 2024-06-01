@@ -1,9 +1,3 @@
----
-title: "Programming Notes"
-permalink: /
-layout: default
----
-
 # Programming Notes
 
 ### List of Notes
