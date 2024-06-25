@@ -24,7 +24,7 @@ Let's look at the following example:
    - This creates a local scope for the variables and functions defined within it, preventing them from polluting the global scope.
 
 **2. Variable header:**
-   - The header variable is defined within the IIFE and stores a reference to the <h1> element in the document.
+   - The header variable is defined within the IIFE and stores a reference to the element in the document.
    - Initially, the color of the header is set to red.
 
 **3. Event Listener:**
