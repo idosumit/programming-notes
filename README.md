@@ -23,3 +23,4 @@
 3. [Truthy and Falsy Values in JS](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Truthy%20and%20Falsy%20Values%20in%20JS.md)
 4. [Short Circuiting in JS](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Short%20Circuiting%20in%20JS.md)
 5. [Nullish Coalescing Operator (`??`)](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Nullish%20Coalescing%20Operator%20(%60%3F%3F%60).md)
+6. [Closures in JS](https://github.com/idosumit/programming-notes/blob/main/JavaScript/Closures%20in%20JavaScript.md)
